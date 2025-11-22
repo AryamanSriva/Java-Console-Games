@@ -11,7 +11,7 @@ The program defines a `Game` interface with a `start` method, which is implement
 ### FlightSimple
 
 In `FlightSimple`, the player controls the flight speed and height with the following commands:
-- `R`: Increase flight speed.
+- `R`: Increase flight speed
 - `L`: Decrease flight speed. If speed <= 0 and height > 0, the player loses. If speed == 0 and height == 0, the player wins.
 - `U`: Increase flight height if speed > 2.
 - `D`: Decrease flight height. If height < 0 and speed > 0, the player loses. If height == 0 and speed == 0, the player wins.
