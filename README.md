@@ -1,4 +1,4 @@
-# Simple Java Console Games
+# Java Console Games
 
 This Java program provides a simple console-based game framework with two games: `FlightSimple` and `RandomWalk`. Players can choose a game, input commands to control the game, and play until a win, loss, or game over condition is met.
 
