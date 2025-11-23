@@ -20,6 +20,6 @@ In `FlightSimple`, the player controls the flight speed and height with the foll
 
 In `RandomWalk`, the player moves on a 20x20 grid starting at position (10, 10) with the following commands:
 - `U`: Move up. The player wins if they reach row 0
-- `L`: Move left if the current column is > 0.
+- `L`: Move left if the current column is > 0
 - `R`: Move right. The player loses if they reach column 19.
 - `D`: Move down. The player loses if they reach row 19.
