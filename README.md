@@ -22,4 +22,4 @@ In `RandomWalk`, the player moves on a 20x20 grid starting at position (10, 10) 
 - `U`: Move up. The player wins if they reach row 0
 - `L`: Move left if the current column is > 0
 - `R`: Move right. The player loses if they reach column 19
-- `D`: Move down. The player loses if they reach row 19.
+- `D`: Move down. The player loses if they reach row 19
